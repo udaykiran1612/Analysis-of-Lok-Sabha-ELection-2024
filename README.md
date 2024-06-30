@@ -21,11 +21,11 @@ Let's elaborate on the project structure :
 Remember to provide detailed comments within your code to explain each step and make it easier for others (and your future self) to understand. If you have any specific questions or need further assistance, feel free to ask! 😊
 
 
- **Technologies Used**:
-Python
-BeautifulSoup4
-selenium
-pandas
-seaborn
-matplotlib
-requests
+## Technologies Used:
+- Python
+- BeautifulSoup4
+- Selenium
+- pandas
+- seaborn
+- matplotlib
+- requests
